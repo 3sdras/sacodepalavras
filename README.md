@@ -53,16 +53,19 @@ linguagem Python.
 Os blocos de texto são breves e explicam o que você pode mudar, como
 executar e o que esperar de cada bloco de código.
 
-O arquivo está pronto para ser usado no Google Colab e tem todas as informações de uso descritas passo a passo. Mais informações e detalhes podem ser encontrados na dissertação no link ___
+O arquivo está pronto para ser usado no Google Colab e tem todas as informações de uso descritas passo a passo. Mais informações e detalhes podem ser encontrados na dissertação no link https://colab.research.google.com/drive/1qQS6cytCKhdiLOXRoPFTwDMtpMK3QV5n?usp=sharing
 
 ## Bibliografia recomendada
 
 * Dissertação do Lucas
 
 * Textos sobre Machine Learning e Bag of Words
-** https://machinelearningmastery.com/gentle-introduction-bag-words-model/
-** https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/
-** https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+
+https://machinelearningmastery.com/gentle-introduction-bag-words-model/
+
+https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/
+
+https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 
 * Aprenda Python
 https://docs.python.org/pt-br/3/tutorial/index.html
