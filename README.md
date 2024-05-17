@@ -1,4 +1,4 @@
-# sacodepalavras
+# Saco de Palavras de Geometria
 Um exemplo simples do modelo de redes neurais "Saco de Palavras" voltado
 para uso em aulas de Matemática
 
@@ -19,7 +19,9 @@ Artificial para suas aulas de maneira simples.
 
 Caso este seja seu primeiro contato com o Github, a Linguagem Python e
 as redes neurais, fica a recomendação da leitura da dissertação,
-voltada para a comunidade matemática, disponível no link
+voltada para a comunidade matemática, disponível no link ___
+
+O script mostra como usar python para fazer um chatbot no estilo "Saco de Palavras" que consegue classificar frases de Geometria Plana como verdadeiras ou falsas. Este modelo de chatbot é ideal para classificações por ser bastante simples e ignorar diversas variáveis que fogem do escopo deste trabalho. 
 
 ## Como o computador consegue compreender as palavras?
 
@@ -51,44 +53,21 @@ linguagem Python.
 Os blocos de texto são breves e explicam o que você pode mudar, como
 executar e o que esperar de cada bloco de código.
 
-## Como você pode usar este script
+O arquivo está pronto para ser usado no Google Colab e tem todas as informações de uso descritas passo a passo. Mais informações e detalhes podem ser encontrados na dissertação no link ___
 
-O formato de arquivo deste script é .ipynb, um formato que permite
-tanto blocos de texto, quanto blocos de programação
- executáveis
+## Bibliografia recomendada
 
-Os blocos de texto são breves e explicam o que você pode mudar,
-como executar e o que esperar de cada bloco de código.
+* Dissertação do Lucas
 
+* Textos sobre Machine Learning e Bag of Words
+** https://machinelearningmastery.com/gentle-introduction-bag-words-model/
+** https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/
+** https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 
+* Aprenda Python
+https://docs.python.org/pt-br/3/tutorial/index.html
 
-
-*** Experimente:
-Modifique os parâmetros, adicione suas próprias frases de treinamento e teste o chatbot com diferentes entradas.
-
-* Como você pode usar este script
-
-O formato de arquivo deste script é .ipynb, um formato que permite
-tanto blocos de texto, quanto blocos de programação
- executáveis** Conteúdo do  na linguagem Python.
-
-Os blocos de texto são breves e explicam o que você pode mudar, como
-executar e o que esperar de cada bloco de código.* Como você pode usar
-O formato de arquivo deste script é .ipynb, um formato que permite
-tanto blocos de texto, quanto blocos de programaçãoe executáveisste script
-Scri na linguagem Python.
-
-Os blocos de texto são breves e explicam o que você pode mudar, como
-executar e o que esperar de cada bloco de código.
-
-
-** Observações
-
-   Este projeto é uma introdução simplificada. Redes neurais e chatbots reais são muito mais complexos.
-
-   O modelo "bag of words" tem suas limitações, como a perda da ordem das palavras.
-Explore as bibliotecas de aprendizado de máquina do Python
-(TensorFlow, Keras, PyTorch) para aprofundar seus conhecimentos.
-
-** Bibliografia comentada
+* Conheça o Google Colab
+* https://colab.research.google.com/
+  
 
