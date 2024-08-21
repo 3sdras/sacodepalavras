@@ -7,7 +7,7 @@ para uso em aulas de Matemática
 
 Este repositório apresenta uma implementação simples do modelo "saco
 de palavras" de redes neurais, usado exemplo durante os trabalhos de
-escrita da dissertação do acadêmico Lucas Pereira Borges no PROFMAT,
+escrita da dissertação do acadêmico Lucas Meireles Pereira no PROFMAT,
 Programa de Mestrado Profissional em Rede Nacional, na UFJ, em
 Jataí-GO.
 
@@ -19,7 +19,7 @@ Artificial para suas aulas de maneira simples.
 
 Caso este seja seu primeiro contato com o Github, a Linguagem Python e
 as redes neurais, fica a recomendação da leitura da dissertação,
-voltada para a comunidade matemática, disponível no link ___
+voltada para a comunidade matemática, disponível no repositório de dissertações do PROFMAT.
 
 O script mostra como usar python para fazer um chatbot no estilo "Saco de Palavras" que consegue classificar frases de Geometria Plana como verdadeiras ou falsas. Este modelo de chatbot é ideal para classificações por ser bastante simples e ignorar diversas variáveis que fogem do escopo deste trabalho. 
 
